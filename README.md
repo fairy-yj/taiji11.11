@@ -5,3 +5,5 @@ this is red
 小蓝的修改
 
 red do C;
+
+blue do D;
